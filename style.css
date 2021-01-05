@@ -44,3 +44,17 @@ body .news-letter-breaking-news .center {
     display: block;
     margin: auto;
 }
+
+body .news-letter-navigation {
+    width: 75%;
+    flex-direction: column;
+}
+
+body .news-letter-navigation h3{
+    cursor: pointer;
+    font-size: 2.5rem;
+}
+
+body .nav-box-themed {
+    height: 14%;
+}
