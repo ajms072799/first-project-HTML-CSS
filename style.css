@@ -12,6 +12,8 @@ body .news-letter-header {
     text-align: center;
 }
 
-body .news-letter-homepage {
+body .flex-container {
+    display: flex;
+    width: 100%;
     border: 1px solid black;
 }
