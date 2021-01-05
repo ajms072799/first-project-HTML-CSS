@@ -23,3 +23,7 @@ body .news-letter-title {
     text-align: center;
     font-style: italic;
 }
+
+body .box-themed {
+    border: 1px solid black;
+}
