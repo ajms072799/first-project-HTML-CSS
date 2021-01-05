@@ -6,6 +6,6 @@ html {
     font-size: 62.5%;
 }
 
-body.news-letter-homepage {
+body .news-letter-homepage {
     border: 1px solid black;
 }
