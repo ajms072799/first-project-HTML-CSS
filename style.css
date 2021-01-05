@@ -6,6 +6,12 @@ html {
     font-size: 62.5%;
 }
 
+body .news-letter-header {
+    font-family: 'Times New Roman';
+    font-size: 5rem;
+    text-align: center;
+}
+
 body .news-letter-homepage {
     border: 1px solid black;
 }
