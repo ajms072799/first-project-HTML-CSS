@@ -53,8 +53,31 @@ body .news-letter-navigation {
 body .news-letter-navigation h3{
     cursor: pointer;
     font-size: 2.5rem;
+    margin: 0;
+    padding: 0;
 }
 
 body .nav-box-themed {
-    height: 14%;
+    height: 20%;
+    width: 100%;
+}
+
+body .nav-politics-color {
+    background-color: rgb(253, 241, 133);
+}
+
+body .nav-technology-color {
+    background-color: crimson;
+}
+
+body .nav-local-color {
+    background-color: lightblue;
+}
+
+body .nav-opinion-color {
+    background-color: lightgreen;
+}
+
+body .nav-sports-color {
+    background-color: orange;
 }
