@@ -37,3 +37,8 @@ body .box-size-themed {
     border: 1px solid black;
     width: 50%;
 }
+
+body .news-letter-breaking-news .center {
+    display: block;
+    margin: auto;
+}
