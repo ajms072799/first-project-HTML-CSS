@@ -26,4 +26,10 @@ body .news-letter-title {
 
 body .box-themed {
     border: 1px solid black;
+    width: 25%;
+}
+
+body .box-size-themed {
+    border: 1px solid black;
+    width: 50%;
 }
